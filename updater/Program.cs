@@ -9,7 +9,7 @@ namespace Updater
     class Program
     {
         static void Main(string[] args)
-        {
+        { //
             LogoPrint();
             if (args.Length > 0)
             {
